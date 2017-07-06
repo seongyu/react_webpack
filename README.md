@@ -1,13 +1,14 @@
 # react_webpack
 
-Node.js
-ExpressJS
-webpack
-ReactJS
-babel
+Environment
+ * Node.js
+ * ExpressJS
+ * webpack
+ * ReactJS
+ * babel
 
 Prepare
-+ Babel
+ * Babel
 npm install -g babel
 
 Install
